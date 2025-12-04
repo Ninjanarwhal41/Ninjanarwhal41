@@ -1,10 +1,10 @@
 ## Hi there, my name is Eli.
 
 
-#🔭I'm currently working on my fianl project in the Pis and Python class at EPIC campus!
+🔭I'm currently working on my fianl project in the Pis and Python class at EPIC campus!
 
-#📫 How to reach me:
-# elicohrs@gmail.com
+## 📫 How to reach me:
+ elicohrs@gmail.com
  
 
 
